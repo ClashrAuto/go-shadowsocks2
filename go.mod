@@ -1,4 +1,4 @@
-module github.com/Dreamacro/go-shadowsocks2
+module github.com/ClashrAuto/go-shadowsocks2
 
 go 1.13
 
